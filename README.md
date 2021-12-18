@@ -1,0 +1,2 @@
+# Maze
+ Small console game
