@@ -23,7 +23,7 @@ extern bool CREATE_ENEMY = false;
 extern int RECORD_SCORE = 0;
 
 void get_settings_from_file() {
-	std::ifstream fl("settings.txt");
+	std::ifstream fl("Settings.txt");
 	int s;
 	fl >> SPEED_ENEMY >> s >> RECORD_SCORE;
 	PERS = (char)s;

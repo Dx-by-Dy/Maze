@@ -55,7 +55,7 @@ void death(){
 	gxy(45, 20);
 	printf("Нажмите любую кнопку для продолжения");
 	if (RECORD_SCORE < SCORE) { // обновляем рекорд
-		ofstream fl("settings.txt");
+		ofstream fl("Settings.txt");
 		fl << SPEED_ENEMY << "\n" << (int)PERS << "\n" << SCORE;
 		RECORD_SCORE = SCORE;
 		fl.close();

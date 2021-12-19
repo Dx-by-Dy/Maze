@@ -29,7 +29,7 @@ void print_creator() {
 	_getch();
 }
 
-void print_settings() {
+void print_settings() { // отрисовка и изменнение настроек
 
 	int chs = 0;
 	int z = true;
@@ -59,9 +59,10 @@ void print_settings() {
 			z = false;
 			break;
 		case 19:
-			fl.open("C:\\Users\\Alex\\Desktop\\Settings.txt");
+			fl.open("Settings.txt");
 			fl << SPEED_ENEMY << "\n";
 			fl << (int)PERS << "\n";
+			fl << RECORD_SCORE;
 		case 27:
 			z = false;
 			break;
