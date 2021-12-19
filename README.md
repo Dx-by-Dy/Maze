@@ -15,7 +15,7 @@
 
 В настройках выбора скорости врагов, чем меньше цифра, тем быстрее враги.
 
-## Foto
+## Фото
 ![Foto_01](https://user-images.githubusercontent.com/95908964/146687332-c2809582-d91c-4e5e-a6fa-adead4501170.png)
 ![Foto_02](https://user-images.githubusercontent.com/95908964/146687378-31f0be12-385e-4e20-82f3-9ab1011bf74d.png)
 ![Foto_03](https://user-images.githubusercontent.com/95908964/146687389-1950c279-dfba-462f-bd3f-3a5c13d03cba.png)
@@ -27,6 +27,6 @@
 ![Foto_09](https://user-images.githubusercontent.com/95908964/146687414-0d7aa4ff-30c9-42d2-8fea-0d6a4541d460.png)
 ![Foto_10](https://user-images.githubusercontent.com/95908964/146687418-c8d8e777-eb06-422c-93b9-55c2196546c2.png)
 
-## Video
+## Видео
 https://user-images.githubusercontent.com/95908964/146687433-d60745f6-cf3a-4f05-8c70-e3fae955dc5c.mp4
 
