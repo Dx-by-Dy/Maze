@@ -15,4 +15,5 @@
 
 В настройках выбора скорости врагов, чем меньше цифра, тем быстрее враги.
 
-![alt text](https://github.com/Dx-by-dy/Maze/foto and video/foto_01.png)
+##Foto
+![Foto_01](https://user-images.githubusercontent.com/95908964/146687332-c2809582-d91c-4e5e-a6fa-adead4501170.png)
