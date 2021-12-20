@@ -1,2 +1,0 @@
-C:\Users\Alex\source\repos\ConsoleApplication1\Debug\Maze.exe
-C:\Users\Alex\source\repos\ConsoleApplication1\Debug\Maze.pdb
