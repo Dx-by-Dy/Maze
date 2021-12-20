@@ -24,9 +24,9 @@
 В файле Map.txt вы можете сами дорисовать или изменить текущую карту.
 
 ## Системные требования
-Windows XP и выше
-10 MB оперативной памяти
-Процессор Intel Pentium и выше
+Windows XP и выше.
+10 MB оперативной памяти.
+Процессор Intel Pentium и выше.
 
 ## Фото
 ![Foto_01](https://user-images.githubusercontent.com/95908964/146687332-c2809582-d91c-4e5e-a6fa-adead4501170.png)
