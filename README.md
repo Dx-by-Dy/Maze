@@ -30,7 +30,7 @@ Windows XP и выше.
 
 Процессор Intel Pentium и выше.
 
-## Фото
+![Maze_gif](https://user-images.githubusercontent.com/95908964/146820922-ae6421bd-80e5-4b83-89ba-b19bd29f68ff.gif)
 ![Foto_01](https://user-images.githubusercontent.com/95908964/146687332-c2809582-d91c-4e5e-a6fa-adead4501170.png)
 ![Foto_02](https://user-images.githubusercontent.com/95908964/146687378-31f0be12-385e-4e20-82f3-9ab1011bf74d.png)
 ![Foto_03](https://user-images.githubusercontent.com/95908964/146687389-1950c279-dfba-462f-bd3f-3a5c13d03cba.png)
